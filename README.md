@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=30&duration=1200&lines=Hi;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=30&duration=1400&lines=Greetings)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=30&duration=1600&lines=Howdy)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=30&duration=1800&lines=Welcome)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=30&duration=2000&lines=Bonjour)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=26&duration=1400&color=0000FF&multiline=true&lines=Hi;Greetings;Howdy;Welcome;Bonjour)](https://git.io/typing-svg)
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF4500&size=30&lines=It's+Jay+Shah!;MERN+Developer;Full+Stack+Developer;Python+Developer;AND;AI+And+Blockchain+Enthusiastic)](https://git.io/typing-svg)
+
+-->
 
 <!--
 **jayshah19/jayshah19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
