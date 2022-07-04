@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Background1][(https://user-images.githubusercontent.com/97860768/177225055-62b6f597-72b3-480a-a5dc-b85e685099be.png)&size=30]
+![Background1](https://user-images.githubusercontent.com/97860768/177225055-62b6f597-72b3-480a-a5dc-b85e685099be.png)
 
 
 
