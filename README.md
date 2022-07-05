@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text]([https://www.savepng.com/png/40530/](https://www.savepng.com/png/40530/)width=200&height=190)
+![alt text]([https://www.savepng.com/png/40530/](https://www.savepng.com/png/40530/)&width=200&height=190)
 
