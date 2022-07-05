@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://komarev.com/ghpvc/?username=jayshah19&style=plastic)
+![](https://komarev.com/ghpvc/?username=jayshah19&style=plastic)[1]
