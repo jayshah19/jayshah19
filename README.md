@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="400" src="https://www.savepng.com/png/40530/">
+!<img align="right" alt="Coding" width="400" src="https://www.savepng.com/png/40530/">
 
 <!--
 ![alt text]([[https://www.savepng.com/png/40530/](https://www.savepng.com/png/40530/)](https://www.savepng.com/png/40530/))
