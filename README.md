@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ============
 -->
 
-<a href="https://www.sigmatraffic.com?ref=131206">Buy traffic for your website</a>
+<a href="https://www.sigmatraffic.com?ref=131206">---</a>
 
 
 
