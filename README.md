@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=jayshah19&style=plastic)
+
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
