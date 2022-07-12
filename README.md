@@ -58,5 +58,9 @@ Here are some ideas to get you started:
 <a href="https://www.sigmatraffic.com?ref=131206">`</a>
 
 -->
-#Motivational Quotes 📜:
+<p align='left'>
+
+##Motivational Quotes 📜:
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+
+</p>
