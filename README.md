@@ -56,4 +56,3 @@ Here are some ideas to get you started:
 <a href="https://www.sigmatraffic.com?ref=131206">`</a>
 
 -->
- [!(https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
