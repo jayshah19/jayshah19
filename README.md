@@ -4,7 +4,7 @@
 <p align='center'>
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="520" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="320" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=30&duration=1400&color=0000FF&multiline=true&width=200&height=190&lines=Welcome;Howdy;Hola;Bonjour;Greetings)](https://git.io/typing-svg)
 
