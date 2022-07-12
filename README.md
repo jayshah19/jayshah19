@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://github.com/jayshah19/Resource/blob/main/t-rex-runner-bot.gif)
+![](img src = "https://github.com/jayshah19/Resource/blob/main/t-rex-runner-bot.gif" height = 30px)
 
 
 <!--
