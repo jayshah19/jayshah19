@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 <a href="https://www.sigmatraffic.com?ref=131206">`</a>
 
 -->
-<h1> Motivational Quotes></h1>
-<p align='center'>
+<h1> Motivational Quotes</h1>
+<p align='left'>
 </p>
   
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
