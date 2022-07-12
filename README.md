@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-
+![Dino](t-rex-runner/assets/t-rex-runner-bot.gif)
 
 
 <!--
