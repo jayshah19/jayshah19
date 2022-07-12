@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF4500&size=30&lines=It's+Jay+Shah!;MERN+Developer;Full+Stack+Developer;Python+Developer;AND;AI+And+Blockchain+Enthusiastic)](https://git.io/typing-svg)
 ============
 -->
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="420" />
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&vCenter=true&height=100&font=Oswald&duration=9000&color=F83D1B&lines=Its+Jay+Shah)](https://git.io/typing-svg)
 
