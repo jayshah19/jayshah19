@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=jayshah19&style=plastic)
+
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=jayshah19&style=plastic)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=30&duration=1400&color=0000FF&multiline=true&width=200&height=190&lines=Welcome;Howdy;Hola;Bonjour;Greetings)](https://git.io/typing-svg)
 
