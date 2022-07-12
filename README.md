@@ -44,12 +44,14 @@ Here are some ideas to get you started:
 ============
 -->
 
+![]<img src="/Resource/blob/main/t-rex-runner-bot.gif " width="250" height="250"/>
 
-
-![](https://github.com/jayshah19/Resource/blob/main/t-rex-runner-bot.gif=250x250)
 
 
 <!--
+![](https://github.com/jayshah19/Resource/blob/main/t-rex-runner-bot.gif =250x250)
+
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
