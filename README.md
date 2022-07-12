@@ -15,10 +15,10 @@
 -->
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&height=90&font=Oswald&duration=9000&color=F83D1B&lines=Its+Jay+Shah)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&center=true&vCenter=true&height=100&font=Oswald&duration=9000&color=F83D1B&lines=Its+Jay+Shah)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&height=90&font=Oswald&duration=3000&color=D22382&lines=A+Python+Developer;A+MERN+Developer;Full+Stack+Developer;AND;AI+%26+Blockchain+Enthusiastic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&height=90&font=Oswald&duration=3000&color=D22382&lines=A+Python+Developer;A+MERN+Developer;Full+Stack+Developer;AND;AI+%26+Blockchain+Enthusiastic)](https://git.io/typing-svg)
   
 
 <!--
