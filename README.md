@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF4500&size=30&lines=It's+Jay+Shah!;MERN+Developer;Full+Stack+Developer;Python+Developer;AND;AI+And+Blockchain+Enthusiastic)](https://git.io/typing-svg)
 ============
 -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=F83D1B&lines=Its+Jay+Shah;A+Python+Developer;MERN+Developer;Full+Stack+Developer;AI+%26+Blockchain+Enthusiastic)](https://git.io/typing-svg)
 <!--
 ============
 **jayshah19/jayshah19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
