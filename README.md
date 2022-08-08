@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ============
 -->
 
-<img src="https://github.com/jayshah19/Resource/blob/main/t-rex-runner-bot.gif" width="395" height="145"/>
+<img src="https://github.com/jayshah19/Resource/blob/main/t-rex-runner-bot.gif" width="410" height="155"/>
 
 
 
